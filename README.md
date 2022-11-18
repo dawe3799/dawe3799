@@ -43,7 +43,7 @@
 ---
 # My Contact
 ## 📫 How to reach me
-## [email] (dawe3799@conestogac.on.ca)
-## [linkedin] (https://linkedin.com/in/Demi-awe)
+## [Email:] (dawe3799@conestogac.on.ca)
+## [linkedin:] (https://linkedin.com/in/Demi-awe)
 
 
