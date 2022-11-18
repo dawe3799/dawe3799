@@ -1,4 +1,6 @@
- #👋 Hi, 
+ 👋 Hi, 
+ 
+
 - I’m @dawe3799 a third-year student of Bachelor of Computer Science at Conestoga College
 - I am proficient in programming languages like C/C++, C#, Java, HTML5, CSS3 and JavaScript
 - 👀 I’m interested in Software Development, DevOps Engineering, Web and Mobile Development, and Software Testing in an Agile environment 
