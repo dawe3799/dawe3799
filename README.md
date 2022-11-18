@@ -1,6 +1,13 @@
  # 👋 Hi,
- ## My name is Demi Awe
  
+ ## My name 
+ ```  
+  {
+  "firstName": "Demi",
+  "lastName": "Awe"
+  "profession": "DevOps Engineer"
+  }
+ ```
  
  --- 
  # About Demi Awe 
@@ -19,7 +26,13 @@
 
 ### 👀 I’m interested in DevOps Engineering, Software Development and Software Testing in an Agile environment 
 
+---
+# Skills
 
+## Programming Languages: C++, C#, C, Java, HTML5, CSS3, JavaScript
+## DevOps Skills: Version Control with Git, Containerization with Docker, CI/CD pipelinewith Jenkins, AWS
+## Technical Skills: Shell Scripting, Linux, MySQL, SQL, Bash, RESTful API, AWS
+## Web Servers: Apache, Apache Tomcat, Nginx
 
 ---
 ## 💞️ I’m looking to collaborate on software development, web development, mobile development and data analysis
