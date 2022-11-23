@@ -24,7 +24,7 @@
 # My Interests
 
 
-### 👀 I’m interested in DevOps Engineering, Clouding Computing, Software Development and Software Testing in an Agile environment 
+### 👀 I’m interested in ♾️ DevOps Engineering, ☁️ Clouding Computing, 👩‍💻 Software Development and Software Testing in an Agile environment 
 
 ---
 # Skills
