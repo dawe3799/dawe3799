@@ -30,7 +30,7 @@
 # Skills
 
 ### Programming Languages: C++, C#, C, Java, HTML5, CSS3, JavaScript
-### DevOps Skills: Version Control with Git, Containerization with Docker, CI/CD pipelinewith Jenkins, AWS
+### DevOps Skills: Version Control with Git, Containerization with Docker, CI/CD pipelinewith Jenkins, Cloud Computing with AWS, Infrastructure as Code with Terraform
 ### Technical Skills: Shell Scripting, Linux, MySQL, SQL, Bash, RESTful API, AWS
 ### Web Servers: Apache, Apache Tomcat, Nginx
 
