@@ -47,7 +47,7 @@
 <br />
 
 ### Programming Languages and Scripting
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img align="left" alt="C#" width="30px" style="padding-right:10px;" src="assets/Csharp.svg" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img align="left" alt="C#" width="30px" style="padding-right:10px;" src="assets/Csharp.png" /></a>
 <a href="https://cplusplus.com/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" width="30px" style="padding-right:10px;" src="assets/C.svg" /></a>
 <a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
