@@ -1,7 +1,7 @@
 # Demi Awe
 
  I'm a skilled DevOps and Cloud Engineer who can work with multiple technologies and quickly learn and master new ones.
- Experienced in writing shell scripts to automate the build and deployment of Java,Php, React, and Python code applications.
+ Experienced in writing shell scripts to automate the build and deployment of Java, React, and Python code applications.
  Proficient in C, C++, and C# programming languages with familiarity in Jira and Azure DevOps for tracking workflow.
  Demonstrated ability to work with minimal supervision to complete projects involving designing websites and performing unit, system, and usability testing on the projects.
  
