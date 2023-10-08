@@ -87,10 +87,15 @@
 <br />
 <br />
 
-### Monitoring & Testing
+### Monitoring, Logging, & Testing
 <a href="https://prometheus.io/"><img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /></a>
 <a href="https://grafana.com/"><img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></a>
 <a href="https://www.selenium.dev/"><img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
+<a href="https://www.elastic.co/elastic-stack"><img align="left" alt="ELK" width="30px" style="padding-right:10px;" src="assets/elastic.png" /></a>
+<a href="https://kafka.apache.org/"><img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="assets/kafka.svg" /></a>
+<a href="https://www.fluentd.org/"><img align="left" alt="Fluentd" width="30px" style="padding-right:10px;" src="assets/fluentd.png" /></a>
+<a href="https://edgedelta.com/"><img align="left" alt="Edge-Delta" width="30px" style="padding-right:10px;" src="assets/edge-delta.png" /></a>
+<a href="https://www.dynatrace.com/"><img align="left" alt="Dynatrace" width="30px" style="padding-right:10px;" src="assets/dynatrace.png" /></a>
 
 <br />
 <br />
