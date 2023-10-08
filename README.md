@@ -31,7 +31,7 @@
 
 ### Certifications
 
-  <a href="https://www.credly.com/earner/earned/badge/02eacc88-ec0d-4801-9910-1684e441b74d"><img align="left" alt="CCP" height="36" width="36" style="padding-right:10px;" src="badges/ccp.png" /></a>
+  <a href="https://www.credly.com/badges/27af273b-62e6-4e06-bcdb-8e18fcd3773f/linked_in?t=rz96pu"><img align="left" alt="CC" height="36" width="36" style="padding-right:10px;" src="badges/cc.png" /></a>
 
 <br />
 <br />
