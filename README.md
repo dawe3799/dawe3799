@@ -144,10 +144,11 @@
 ---
 
 ### My Journey
-   I started out as a student of Mechanical Engineering who loved gadgets and electronics a little too much, so I would look for ways to improve them and make them way better than they were designed to perform (e.g. overclocking graphics cards and processors, porting drivers from one device to another, upgrading hardware, etc). I already knew how to repair electronics and make custom electronics such as power amplifiers, sound equalizers, active filters (sallen-key, butterworth, chebyshev), and all sorts of other DIY electronics.
-  I got very interested in mobile phones so I started working on them in the days of Android Eclairs and iPhone 4. While testing custom ROMs on Android phones and jailbreakking iPhones, I was introduced to Python 2, Android Debugging Bridge (ADB), JTAG, and Linux (Ubuntu).
-  I was able to implement projects such as E-learning systems for companies with the knowledge of Linux and Python 2 that I had, then I switched to PHP and WordPress because it looked interesting to me. I transitioned afterwards to writing desktop apps with C# and packaging them with InstallShield. This wasn't long-lived as I later switched to JavaScript (React and Node.js) and Java. 
-  My switch to DevOps happened over 5 years ago when a mentor gave me a Raspberry Pi 3b+ and asked me to run experiments on it and try to break it. I made many projects with it (one of them is Raspotify), then I got to the point where I was able to host a static website on it, and eventually run Kubernetes (MicroK8s). That's how my DevOps Journey started.
+  I started out as a student of Mechanical Engineering with love of Information Technology which inspired me to develop a program used to design bevel gears just by inputing values.
+  
+  After immigrating to Canada I decided to pursue a career in Information Technology by going back to school to obtain a degree in Computer Science. And in year two, I started a job as a Junior DevOps Engineer, where I learnt about configuration, task automation and deployments using DevOps practices. I was also privileged to provide support in the deployment of a Learning Management System LMS project to improve the learning capacity of students, and the LMS currently serves over 100 students as users. And the LMS was deployed to an AWS private server using Jenkins, where cron jobs were scheduled to ensure the latest learning materials, from videos to notes, were uploaded to the LMS daily.. Thereafter, I decided to pursue a career in DevOps/Cloud Engineering.
+  
+  I am presently working as a Cloud Engineer at RBC with the Logging as a Service team, working on improving the LaaS infrastructure that went live earlier this year. In this role I have been introduced to tools like Kafka for streaming, Prometheus, and Grafana for monitoring and the Elastic stack for managing and viewing logs.
   
 <br />
 <br />
