@@ -22,7 +22,10 @@
 <br />
 
   <p align="center">
-    <a href="https://github.com/olumayor99/Aureli"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Aureli&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/dawe3799/Bash_Scripts_Writing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dawe3799&repo=Bash_Scripts_Writing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/dawe3799/Weather-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dawe3799&repo=Weather-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Lightningale/CSCN71030W21-TextAdventureGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lightningale&repo=CSCN71030W21-TextAdventureGame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/dawe3799/theCalculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dawe3799&repo=theCalculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     
 </p>
 
