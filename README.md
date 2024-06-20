@@ -143,14 +143,14 @@
 
 ---
 
-### My Journey
+<!--### My Journey
   I started out as a student of Mechanical Engineering with love of Information Technology which inspired me to develop a program used to design bevel gears just by inputing values.
   
   After immigrating to Canada I decided to pursue a career in Information Technology by going back to school to obtain a degree in Computer Science. And in year two, I started a job as a Junior DevOps Engineer, where I learnt about configuration, task automation and deployments using DevOps practices. I was also privileged to provide support in the deployment of a Learning Management System LMS project to improve the learning capacity of students, and the LMS currently serves over 100 students as users. And the LMS was deployed to an AWS private server using Jenkins, where cron jobs were scheduled to ensure the latest learning materials, from videos to notes, were uploaded to the LMS daily.. Thereafter, I decided to pursue a career in DevOps/Cloud Engineering.
   
   I am presently working as a Cloud Engineer at RBC with the Logging as a Service team, working on improving the LaaS infrastructure that went live earlier this year. In this role I have been introduced to tools like Kafka for streaming, Prometheus, and Grafana for monitoring and the Elastic stack for managing and viewing logs.
   
-<br />
+<br />-->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=dawe3799&color=blueviolet)
